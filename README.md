@@ -7,3 +7,6 @@ Further information: https://www.linkedin.com/in/antonkrusefinance/
 
 ## Purpose of the project
 My first repository to start a career in financial engineering. 
+
+## Future scope
+Development of private investment strategies while using methods for portfolio optimization and others.
